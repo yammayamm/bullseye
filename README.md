@@ -23,3 +23,11 @@
 - Put app in landscape
 
 - Make it look pretty :]
+
+## Simulator
+
+<div>
+<img width="726" alt="스크린샷 2020-08-12 오후 11 20 14" src="https://user-images.githubusercontent.com/49015100/90027088-183c7380-dcf3-11ea-9898-7572cf1ac712.png">
+<img width="725" alt="스크린샷 2020-08-12 오후 11 21 26" src="https://user-images.githubusercontent.com/49015100/90027101-1ecaeb00-dcf3-11ea-83df-da255ecda7be.png">
+<img width="723" alt="스크린샷 2020-08-12 오후 11 22 14" src="https://user-images.githubusercontent.com/49015100/90027109-21c5db80-dcf3-11ea-87fb-b1d5471ae6e8.png">
+</div>
